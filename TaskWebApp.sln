@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskWebApp", "TaskWebApp\TaskWebApp.csproj", "{AED8872C-063B-4CB2-8A7C-C5C12B3511DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{21BF06FE-67F2-4910-B682-1C3A6CEBE2E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED8872C-063B-4CB2-8A7C-C5C12B3511DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED8872C-063B-4CB2-8A7C-C5C12B3511DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED8872C-063B-4CB2-8A7C-C5C12B3511DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED8872C-063B-4CB2-8A7C-C5C12B3511DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BF06FE-67F2-4910-B682-1C3A6CEBE2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BF06FE-67F2-4910-B682-1C3A6CEBE2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BF06FE-67F2-4910-B682-1C3A6CEBE2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BF06FE-67F2-4910-B682-1C3A6CEBE2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {658A00BC-E47B-4C74-AE52-5EBAE4F03CE4}
+	EndGlobalSection
+EndGlobal
